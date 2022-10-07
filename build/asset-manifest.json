@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UPT-ToomasH/static/css/main.05397920.css",
+    "main.js": "/UPT-ToomasH/static/js/main.61a74fed.js",
+    "index.html": "/UPT-ToomasH/index.html",
+    "main.05397920.css.map": "/UPT-ToomasH/static/css/main.05397920.css.map",
+    "main.61a74fed.js.map": "/UPT-ToomasH/static/js/main.61a74fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05397920.css",
+    "static/js/main.61a74fed.js"
+  ]
+}
